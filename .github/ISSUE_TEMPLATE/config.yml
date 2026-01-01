@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerabilities
+    url: mailto:security@groo.dev
+    about: Report security issues privately via email
+  - name: Documentation
+    url: https://docs.groo.dev
+    about: Check the documentation before opening an issue
+  - name: Support
+    url: mailto:support@groo.dev
+    about: For general support questions
