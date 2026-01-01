@@ -11,7 +11,7 @@ This is the public issue tracker for all Groo products. Use this repository to r
 | **CLI** | Command-line tools | - |
 | **Docs** | Documentation | [docs.groo.dev](https://docs.groo.dev) |
 | **Drive** | File storage | [drive.groo.dev](https://drive.groo.dev) |
-| **AI** | AI tools | [groo.dev](https://groo.dev) |
+| **AI** | AI tools | [ai.groo.dev](https://ai.groo.dev) |
 | **cl-wrangler** | Cloudflare account switcher | [GitHub](https://github.com/groo-dev/cl-wrangler) |
 
 ## How to Submit an Issue
