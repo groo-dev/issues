@@ -4,15 +4,31 @@ This is the public issue tracker for all Groo products. Use this repository to r
 
 ## Products
 
+### Applications
+
 | Product | Description | Website |
 |---------|-------------|---------|
 | **Pass** | Password manager (web app + browser extension) | [pass.groo.dev](https://pass.groo.dev) |
+| **Drive** | Cloud file storage | [drive.groo.dev](https://drive.groo.dev) |
+| **Pad** | Cross-device clipboard with E2E encryption | [pad.groo.dev](https://pad.groo.dev) |
 | **Accounts** | Authentication service | [accounts.groo.dev](https://accounts.groo.dev) |
-| **CLI** | Command-line tools | - |
-| **Docs** | Documentation | [docs.groo.dev](https://docs.groo.dev) |
-| **Drive** | File storage | [drive.groo.dev](https://drive.groo.dev) |
-| **AI** | AI tools | [ai.groo.dev](https://ai.groo.dev) |
-| **cl-wrangler** | Cloudflare account switcher | [GitHub](https://github.com/groo-dev/cl-wrangler) |
+| **AI** | Hybrid search and RAG chat for docs | [ai.groo.dev](https://ai.groo.dev) |
+| **Ops** | Deployment tracking and versioning | [ops.groo.dev](https://ops.groo.dev) |
+| **Docs** | Developer documentation | [docs.groo.dev](https://docs.groo.dev) |
+
+### Native Apps
+
+| Product | Description | Install |
+|---------|-------------|---------|
+| **Groo for macOS** | Menu bar app for Pad | `brew install --cask groo-dev/tap/groo-mac` |
+
+### Developer Tools
+
+| Product | Description | Install |
+|---------|-------------|---------|
+| **groo** | CLI for managing monorepo dev servers | `brew install groo-dev/tap/groo` |
+| **cl** | Cloudflare account switcher | `brew install groo-dev/tap/cl` |
+| **record-release** | GitHub Action for release tracking | [GitHub](https://github.com/groo-dev/record-release) |
 
 ## How to Submit an Issue
 
