@@ -9,12 +9,16 @@ body:
       description: Which Groo product is this about?
       options:
         - Pass
-        - Accounts
-        - CLI
-        - Docs
         - Drive
+        - Pad
+        - Groo for macOS
+        - Accounts
         - AI
-        - cl-wrangler
+        - Ops
+        - Docs
+        - groo (CLI)
+        - cl (CLI)
+        - record-release
         - Other
     validations:
       required: true
